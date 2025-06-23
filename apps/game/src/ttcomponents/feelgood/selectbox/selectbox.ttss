@@ -1,0 +1,47 @@
+.selectbox {
+  display: flex;
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+  align-items: center;
+  justify-content: center;
+  border-style: solid;
+}
+.square {
+  border-radius: 2px;
+  border-width: 1.5px;
+}
+.circle {
+  border-radius: 50%;
+  border-width: 2px;
+}
+.selected {
+  border-color: var(--flgd-theme-primary, #fe2c55);
+  background-color: var(--flgd-theme-primary, #fe2c55);
+}
+.disabled {
+  background-color: rgba(22, 24, 35, 0.05);
+}
+.empty {
+  border-color: rgba(22, 24, 35, 0.12);
+}
+.icon {
+  width: 9px;
+  height: 6px;
+}
+.fill-circle {
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: var(--flgd-theme-primary, #fe2c55);
+  border: 2px solid white;
+}
+.theme-tiktok .selectbox {
+  width: 22px;
+  height: 22px;
+}
+.theme-tiktok .icon {
+  width: 12px;
+  height: 8px;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rating",
+  "attributeDescriptors": [
+    {
+      "key": "config",
+      "enums": [],
+      "type": "Object"
+    }
+  ],
+  "events": [
+    null
+  ],
+  "slots": []
+}

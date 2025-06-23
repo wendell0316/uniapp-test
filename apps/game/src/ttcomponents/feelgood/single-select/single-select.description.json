@@ -1,0 +1,16 @@
+{
+  "name": "single-select",
+  "attributeDescriptors": [
+    {
+      "key": "config",
+      "enums": [
+        "shuffle"
+      ],
+      "type": "Object"
+    }
+  ],
+  "events": [
+    null
+  ],
+  "slots": []
+}

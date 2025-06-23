@@ -1,0 +1,1 @@
+<view class="{{ themeClass }}" style="width: 100%;">   <view     class="fg-number-option {{ selected? 'selected-option': 'normal-option' }}"     bindtap="onTap"   >     <text class="text {{ selected? 'selected-text': 'normal-text' }}">       {{ config.rate }}     </text>   </view> </view>

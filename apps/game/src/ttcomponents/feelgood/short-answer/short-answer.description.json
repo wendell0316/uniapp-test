@@ -1,0 +1,15 @@
+{
+  "name": "short-answer",
+  "attributeDescriptors": [
+    {
+      "key": "config",
+      "enums": [],
+      "type": "Object"
+    }
+  ],
+  "events": [
+    null,
+    "blur"
+  ],
+  "slots": []
+}

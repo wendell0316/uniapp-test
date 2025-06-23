@@ -1,0 +1,27 @@
+{
+ 
+  "name": "dialog-task",
+  "attributeDescriptors": [
+    {
+      "key": "page",
+      "enums": [],
+      "type": "String",
+      "value": ""
+    },
+    {
+      "key": "hasBottomTab",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    },
+    {
+      "key": "thankyouConfig",
+      "enums": [],
+      "type": "Object"
+    }
+  ],
+  "events": [
+    "closed"
+  ],
+  "slots": []
+}

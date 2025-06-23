@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "question-template": "../question-template/question-template",
+    "fgicon": "../fgicon/fgicon"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="thankyou-panel {{ themeClass }}">   <image     src="{{ img }}"     class="thankyou-panel__logo"     style="width: {{ width }}px; height: {{ height }}px;"   />   <text class="thankyou-panel__text">     {{ label }}   </text> </view>

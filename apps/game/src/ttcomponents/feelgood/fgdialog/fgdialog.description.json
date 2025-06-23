@@ -1,0 +1,25 @@
+{
+  "name": "fgdialog",
+  "attributeDescriptors": [
+    {
+      "key": "taskConfig",
+      "enums": [],
+      "type": "Object"
+    },
+    {
+      "key": "hasBottomTab",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    },
+    {
+      "key": "thankyouConfig",
+      "enums": [],
+      "type": "Object"
+    }
+  ],
+  "events": [
+    "closed"
+  ],
+  "slots": []
+}

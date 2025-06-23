@@ -1,0 +1,24 @@
+{
+  "name": "selectbox",
+  "attributeDescriptors": [
+    {
+      "key": "selected",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    },
+    {
+      "key": "boxStyle",
+      "enums": [],
+      "type": "Object"
+    },
+    {
+      "key": "disabled",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    }
+  ],
+  "events": [],
+  "slots": []
+}

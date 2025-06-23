@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "types": ["@dcloudio/types", "@uni-helper/uni-types", "node"],
+    "experimentalDecorators": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "scripts/**/*.ts",
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "*.d.ts",
+    "*.config.js",
+    "*.config.mjs",
+    "*.config.ts",
+    "../../env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "**/node_modules"
+  ],
+  "vueCompilerOptions": {
+    "plugins": ["@uni-helper/uni-types/volar-plugin"]
+  }
+}

@@ -1,0 +1,21 @@
+{
+ 
+  "name": "fgform",
+  "attributeDescriptors": [
+    {
+      "key": "taskConfig",
+      "enums": [],
+      "type": "Object"
+    },
+    {
+      "key": "formMaxHeight",
+      "enums": [],
+      "type": "Number",
+      "value": 500
+    }
+  ],
+  "events": [
+    "submitted"
+  ],
+  "slots": []
+}

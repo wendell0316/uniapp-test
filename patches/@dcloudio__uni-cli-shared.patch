@@ -1,0 +1,12 @@
+diff --git a/dist/utils.js b/dist/utils.js
+index 54c5125c4a65d18fa3555ed1ba5c8f5925b9f447..f1d61e0f27524731b949e74946b28ddcaeafbfc6 100644
+--- a/dist/utils.js
++++ b/dist/utils.js
+@@ -83,6 +83,7 @@ function normalizeNodeModules(str) {
+     if (process.env.UNI_PLATFORM === 'mp-alipay') {
+         str = str.replace('node-modules/@', 'node-modules/npm-scope-');
+     }
++    str = str.replace(/\.\.\//g, '');
+     return str;
+ }
+ exports.normalizeNodeModules = normalizeNodeModules;

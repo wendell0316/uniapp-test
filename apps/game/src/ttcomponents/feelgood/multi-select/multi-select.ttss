@@ -1,0 +1,13 @@
+.fg-multi-select {
+  display: block;
+  width: 100%;
+}
+.fg-multi-select__body {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.tag-option {
+  margin: 6px 0;
+}

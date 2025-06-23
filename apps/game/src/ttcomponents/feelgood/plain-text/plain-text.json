@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "question-template": "../question-template/question-template"
+  }
+}

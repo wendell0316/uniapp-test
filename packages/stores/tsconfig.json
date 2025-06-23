@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "baseUrl": ".",
+    "lib": ["esnext", "dom"],
+    "types": ["@dcloudio/types", "@uni-helper/uni-types"]
+  },
+  "include": ["src/**/*.ts", "src/**/*.js", "src/**/*.d.ts", "../../env.d.ts"],
+  "exclude": [
+    "node_modules",
+    "**/node_modules/*"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+ 
+  "name": "line-option",
+  "attributeDescriptors": [
+    {
+      "key": "questionId",
+      "enums": [],
+      "type": "String",
+      "value": ""
+    },
+    {
+      "key": "selected",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    },
+    {
+      "key": "config",
+      "enums": [],
+      "type": "Object"
+    },
+    {
+      "key": "boxStyle",
+      "enums": [],
+      "type": "Object"
+    },
+    {
+      "key": "disabled",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    }
+  ],
+  "events": [
+    "TapOption",
+    "ExtraChange",
+    null
+  ],
+  "slots": []
+}

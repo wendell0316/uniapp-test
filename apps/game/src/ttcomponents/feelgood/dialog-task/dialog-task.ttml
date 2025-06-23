@@ -1,0 +1,1 @@
+<!-- 弹窗展示的Task: 可根据参数渲染不同类型的内容 --> <view class="fg-dialog-task">   <fgdialog     tt:if="{{ taskConfig }}"     style="width: 100%;"     taskConfig="{{ taskConfig }}"     hasBottomTab="{{ hasBottomTab }}"     thankyouConfig="{{ thankyouConfig }}"     bindclosed="onDialogClosed"   ></fgdialog> </view>

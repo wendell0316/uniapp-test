@@ -1,0 +1,14 @@
+{
+  "name": "nps",
+  "attributeDescriptors": [
+    {
+      "key": "config",
+      "enums": [],
+      "type": "Object"
+    }
+  ],
+  "events": [
+    null
+  ],
+  "slots": []
+}

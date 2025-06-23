@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "question-template": "../question-template/question-template",
+    "star-option": "../star-option/star-option",
+    "number-option": "../number-option/number-option"
+  }
+}

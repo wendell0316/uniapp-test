@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+.fg-nps {
+  display: block;
+  width: 100%;
+}
+.fg-nps__body {
+  flex-direction: column;
+  width: 100%;
+}
+.options {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.labels {
+  display: flex;
+  margin-top: 2px;
+  justify-content: space-between;
+}
+.label {
+  color: rgba(22, 24, 35, 0.5);
+  font-size: 12px;
+  line-height: 14px;
+}
+.number-option {
+  width: 8%;
+}
+.theme-people .labels {
+  margin-top: 8px;
+}
+.theme-people .label {
+  color: #8f959e;
+  font-size: 14px;
+  line-height: 22px;
+}

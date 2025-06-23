@@ -1,0 +1,13 @@
+.fg-star-option {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 36px;
+}
+.selected-text {
+  color: var(--flgd-theme-primary, #fe2c55);
+}
+.theme-people .fg-star-option {
+  height: 28px;
+}

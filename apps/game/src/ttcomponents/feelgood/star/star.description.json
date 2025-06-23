@@ -1,0 +1,13 @@
+{
+  "name": "star",
+  "attributeDescriptors": [
+    {
+      "key": "active",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    }
+  ],
+  "events": [],
+  "slots": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "question-template",
+  "attributeDescriptors": [
+    {
+      "key": "config",
+      "enums": [],
+      "type": "Object"
+    },
+    {
+      "key": "errorHint",
+      "enums": [],
+      "type": "String",
+      "value": ""
+    },
+    {
+      "key": "showErrorHint",
+      "enums": [],
+      "type": "Boolean",
+      "value": false
+    }
+  ],
+  "events": [],
+  "slots": [
+    "default"
+  ]
+}

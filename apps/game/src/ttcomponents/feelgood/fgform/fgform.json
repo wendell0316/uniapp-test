@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "true-or-false": "../true-or-false/true-or-false",
+    "single-select": "../single-select/single-select",
+    "multi-select": "../multi-select/multi-select",
+    "short-answer": "../short-answer/short-answer",
+    "rating": "../rating/rating",
+    "nps": "../nps/nps",
+    "plain-text": "../plain-text/plain-text"
+  }
+}

@@ -1,0 +1,70 @@
+.fg-line-option {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  margin-bottom: 8px;
+  font-size: 13px;
+}
+.selectbox {
+  min-width: 20px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+}
+.spacer {
+  width: 8px;
+  min-width: 8px;
+  height: 1px;
+}
+.fg-line-option__text {
+  text-align: start;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(22, 24, 35, 0.75);
+}
+.fg-line-option__text-container {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
+.extra-input {
+  margin-top: 8px;
+}
+.textarea-wrapper {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 4px 12px;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+}
+.textarea {
+  width: 100%;
+  height: 37px;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: start;
+  background-color: #f5f5f5;
+}
+.textarea::placeholder {
+  font-size: 15px;
+  line-height: 18px;
+  color: rgba(22, 24, 35, 0.34);
+}
+.extra {
+  margin-top: 8px;
+}
+.disabled-text {
+  color: #dadfe3;
+}
+.theme-tiktok .fg-line-option {
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  padding: 18px 0;
+  margin-bottom: 0;
+}
+.theme-tiktok .fg-line-option__text {
+  text-align: start;
+  font-size: 15px;
+  line-height: 17px;
+  color: #161823;
+}

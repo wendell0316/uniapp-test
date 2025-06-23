@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "selectbox": "../selectbox/selectbox",
+    "short-answer": "../short-answer/short-answer"
+  }
+}

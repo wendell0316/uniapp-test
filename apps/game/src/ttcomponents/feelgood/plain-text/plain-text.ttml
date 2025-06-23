@@ -1,0 +1,1 @@
+<question-template   class="fg-plain-text"   config="{{ config }}"   sequence="{{ sequence }}" ></question-template>

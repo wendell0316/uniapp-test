@@ -1,0 +1,12 @@
+{
+  "name": "plain-text",
+  "attributeDescriptors": [
+    {
+      "key": "config",
+      "enums": [],
+      "type": "Object"
+    }
+  ],
+  "events": [],
+  "slots": []
+}

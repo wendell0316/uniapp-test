@@ -1,0 +1,26 @@
+{
+ 
+  "name": "fgicon",
+  "attributeDescriptors": [
+    {
+      "key": "size",
+      "enums": [],
+      "type": "Number",
+      "value": 36
+    },
+    {
+      "key": "color",
+      "enums": [],
+      "type": "String",
+      "value": "black"
+    },
+    {
+      "key": "content",
+      "enums": [],
+      "type": "String",
+      "value": ""
+    }
+  ],
+  "events": [],
+  "slots": []
+}
