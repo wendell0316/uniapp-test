@@ -8,7 +8,6 @@
     "check-types": "tsc --noEmit"
   },
   "dependencies": {
-    "@byted-star/axios-extensions": "^5.6.5",
     "axios": "^0.27.2",
     "pinia": "^2.3.1"
   }

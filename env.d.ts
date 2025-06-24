@@ -1,5 +1,4 @@
 /// <reference types="vite/client" />
-import '@ea/tt-mp-types/global';
 
 declare global {
   namespace tt {
